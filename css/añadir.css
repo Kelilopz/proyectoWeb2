@@ -1,12 +1,16 @@
+<<<<<<< HEAD
 @font-face {
     font-family: 'Myriad pro, regular';
     src: url(./font/Myriad\ Pro\ Regular.ttf);
 }
+=======
+>>>>>>> b8ec2a2 (feat :rocket: Ingreso de imagenes)
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+<<<<<<< HEAD
 body{
     display: flex;
 }
@@ -18,10 +22,19 @@ body{
     margin-top: 1vi;
 }
 
+=======
+.flex-conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+>>>>>>> b8ec2a2 (feat :rocket: Ingreso de imagenes)
 .mas{
     margin-left: 7vi;
     width: 1.3vi;
 }
+<<<<<<< HEAD
 .Añadir{
     text-decoration: none;
     color: black;
@@ -665,4 +678,38 @@ display: block;
     color: white;
     top: 12.8vi;
     left: 5.3vi;
+=======
+.circul{
+    margin-left: 9vi;
+    width: 1.3vi;
+}
+.caneca{
+    margin-left: 9vi;
+    width: 1.3vi;
+}
+.logo{
+    margin-left: 9vi;
+    width: 3vi;
+}
+.report{
+    margin-left: 15vi;
+    width: 1.3vi;
+}
+.circle{
+    margin-left: 9vi;
+    width: 1.3vi;
+}
+.tuerca{
+    margin-left: 9vi;
+    width: 0.8vi;
+}
+.campana{
+    margin-left: 1vi;
+    width: 0.8vi;
+}
+.foto{
+    margin-left: 1vi;
+    width: 3vi;
+    
+>>>>>>> b8ec2a2 (feat :rocket: Ingreso de imagenes)
 }
