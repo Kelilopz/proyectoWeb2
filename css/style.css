@@ -142,7 +142,7 @@ body{
     }
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 600px) {
     .kario{
         left: 30vi;
         width: 40vi;
